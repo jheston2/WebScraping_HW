@@ -1,0 +1,35 @@
+#a  {
+    font-weight: bold;
+}
+
+#b  {
+    
+    border: solid;
+    padding: 10px;
+    border: 10px;
+}
+
+#c  {
+    padding-top: 5px;
+}
+
+#d  {
+    font-weight: bold;
+    text-align: center;
+}
+
+#e  {
+    background-color: rgb(197, 200, 209);
+}
+
+#f   {
+    text-align: center;
+}
+
+img.two {
+    height: 100%;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
